@@ -1,0 +1,5 @@
+/vendor/
+/.env
+config/fonnte.php
+buat_admin.php
+cek_status.php
